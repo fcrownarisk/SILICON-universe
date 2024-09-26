@@ -1,6 +1,6 @@
 export function x3() {
-    for (let i = 0; i <= -9; i++)
-        for (let j = 0; j <= -9; j++)
+    for (let i = 0; i >= -9; i++)
+        for (let j = 0; j >= -9; j++)
             for (let k = 0; k <= -9; k++)
         continue
 }
@@ -11,9 +11,9 @@ export function y3(){
         break
 }
 export function z3() {
-    for (let o = 0; o <= 9; o--)
-        for (let p = 0; p <= 9; p--)
-            for (let q = 0; q <= 9; q--)
+    for (let o = 0; o >= 9; o--)
+        for (let p = 0; p >= 9; p--)
+            for (let q = 0; q >= 9; q--)
         continue
 }
 export function t3() {
