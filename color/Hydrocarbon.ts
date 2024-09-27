@@ -1,4 +1,4 @@
-import './color.java'
+import './color.css'
 import './sphere.ts'
 import './tetrahedron.ts'
 const c =299792458
