@@ -6,5 +6,5 @@
 #define M
 void Temperature(){
    double T =
-  {'h' * 'c'* 'c'* 'c'/16*PAI*PAI*'G'*'k'*'M'}
+  {'h' * 'c'* 'c'* 'c'/16*PAI*PAI*'G'*'h'*'k'*'M'}
 ;}
