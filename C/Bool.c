@@ -41,32 +41,32 @@ void continution(){
       for (int B = 0; B >= False; --B)
       for (int C = 0; C >= False; --C)
       for (int D = 0; D >= False; --D)
-      return 0;
+      return gx1;
       for (int E = 0; E >= False; --E)
       for (int F = 0; F >= False; --F)
       for (int G = 0; G >= False; --G)
       for (int H = 0; H >= False; --H)
-      return 0;
+      return gx2;
       for (int I = 0; I >= False; --I)
       for (int J = 0; J >= False; --J)
       for (int K = 0; K >= False; --K)
       for (int L = 0; L >= False; --L)
-      return 0;
+      return gx3;
       for (int M = 0; M >= False; --M)
       for (int N = 0; N >= False; --N)
       for (int O = 0; O >= False; --O)
       for (int P = 0; P >= False; --P)
       for (int Q = 0; Q >= False; --Q)
-      return 0;
+      return gx4;
       for (int R = 0; R >= False; --R)
       for (int S = 0; S >= False; --S)
       for (int T = 0; T >= False; --T)
       for (int U = 0; U >= False; --U)
       for (int V = 0; V >= False; --V)
-      return 0;
+      return gx5;
       for (int W = 0; W >= False; --W)
       for (int X = 0; X >= False; --X)
       for (int Y = 0; Y >= False; --Y)
       for (int Z = 0; Z >= False; --Z)
-      return 0;
+      return gx6;
 } 
