@@ -1,37 +1,39 @@
+#include "CPU.c"
+#include "GPU.c"
 #define True 1
 void iteration(){
       for (int a = 1; a <= True; a++)
       for (int b = 1; b <= True; b++)
       for (int c = 1; c <= True; c++)
       for (int d = 1; d <= True; d++)
-      return 1;
+      return fx1;
       for (int e = 1; e <= True; e++)
       for (int f = 1; f <= True; f++)
       for (int g = 1; g <= True; g++)
       for (int h = 1; h <= True; h++)
-      return 1;
+      return fx2;
       for (int i = 1; i <= True; i++)
       for (int j = 1; j <= True; j++)
       for (int k = 1; k <= True; k++)
       for (int l = 1; l <= True; l++)
-      return 1;
+      return fx3;
       for (int m = 1; m <= True; m++)
       for (int n = 1; n <= True; n++)
       for (int o = 1; o <= True; o++)
       for (int p = 1; p <= True; p++)
       for (int q = 1; q <= True; q++)
-      return 1;
+      return fx4;
       for (int r = 1; r <= True; r++)
       for (int s = 1; s <= True; s++)
       for (int t = 1; t <= True; t++)
       for (int u = 1; u <= True; u++)
       for (int v = 1; v <= True; v++)
-      return 1;
+      return fx5;
       for (int w = 1; w <= True; w++)
       for (int x = 1; x <= True; x++)
       for (int y = 1; y <= True; y++)
       for (int z = 1; z <= True; z++)
-      return 1;
+      return fx6;
 }
 #define False 0
 void continution(){
